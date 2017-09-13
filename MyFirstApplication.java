@@ -1,6 +1,6 @@
 /**
 * This is a simple Java application.
-* It prints a short statement to the standard output.
+* It prints will print a short statement to the standard output.
 */
 
 class MyFirstApplication {
